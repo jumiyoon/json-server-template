@@ -1,52 +1,50 @@
 {
-  "toys": [
+  "reflections": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Charlotte's Web",
+      "category": "Book",
+      "author": "E. B. White",
+      "url": "https://www.amazon.com/Charlottes-Web-B-White/dp/0061124958",
+      "genre": "Fiction", 
+      "thoughts": "The story focuses on friendship between a little girl named Charlotte and a pig named Wilbur. I learned that true friendship is immeasurably invaluable, and that I must respect all and strive for humility."
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "Building Identity as a Third Culture Kid",
+      "category": "TedTalk / Podcast",
+      "author": "Erik Vyhmeiste",
+      "url": "https://www.youtube.com/watch?v=8RCmgMKJRy8",
+      "genre": "Psychology / Sociology", 
+      "thoughts":"As a TCK, I felt heard and known. It is encouraging to know that there are others who also struggling to find home in a single community."
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "Meaning of Marriage",
+      "category": "Book",
+      "author": "Timothy Keller",
+      "url": "https://www.amazon.com/Meaning-Marriage-Facing-Complexities-Commitment/dp/1594631875",
+      "genre": "Philosophy / Religion", 
+      "thoughts": "Insight to the Christian values of marriage. Author refers to his personal experiences as well as wisdom from the bible."
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "Benefits of a Bilingual Brain",
+      "category": "TedTalk / Podcast",
+      "author": "Mia Nacamulli",
+      "url": "https://www.youtube.com/watch?v=MMmOLN5zBLY",
+      "genre": "Psychology / Sociology",
+      "thoughts": "Allowed me to reflect on how my bilingualism can be used not merely as a means of communication, but an added lens when perceiving the world"
+
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "Enneagram and Coffee — Levels of Health for Type 3",
+      "category": "TedTalk / Podcast",
+      "author": "Sarajane Case",
+      "url": "https://open.spotify.com/episode/3N867sL140Lygq69Bf2KA4?si=d791322521c94f51",
+      "genre": "Psychology / Sociology",
+      "thoughts": "Levels of health for enneagram type 3 — helpful tool to gauge where I'm at"
     }
   ]
 }
